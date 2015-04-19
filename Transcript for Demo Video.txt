@@ -1,0 +1,14 @@
+Hello guys, in the last video I told you how to install Code::Blocks IDE and also how to combine GTK+ with that. Now in this video I am going to show you how the demo of my project ImaGe about which I also mentioned in the last video.
+ My project ImaGe uses GTK+ and Siimplecpp only. GTK+ is used for creating menu window with several buttons which when clicked do the required operation.
+So starting with the button ImaGe. This button displays the information of the projecct such as the members involved in making this, when the project was made and also under whom.
+Now coming to Menu option. It displays two options first mirror and second lens. First I will click on mirror,then three buttons appear. We can choose any one of them.First I will choose convex mirror. Here,it asks me for point or extended object.First I will show point object then I will show for extended object.
+Now click on point.Here simplecpp canvas appears.Now open the command prompt window and type the radius you want(in pixels). i will type 100.Now here,in canvas,give an object by clicking. The corresponding image and its properties will appear below.
+We have to open project again by closing this tab because there is some peroblem with canvas.We can now do the same steps and then click on extended object. First give the radius in cmd / terminal and wait until it draws the optical instrument.After this,give the number of sides of polygon in cmd/terminal .Now click the same number of times within the box.Here appears the image curve for the convex mirror.Same can be done with concave mirror.
+Now heading  into plane mirror,first click on mirror,then plane mirror and then point object first.Here click on the canvas for the object,there appears the image with proper diagrams.
+Now we can also do same for extended objects in plane mirror.just we have to give number of sides of polygon in cmd/terminal once mirror is drawn.
+This is it for mirror part.
+Heading onto lens button when we click on lens button there are two options ,convex and concave lens.Click on convex first then appears real and virtual object.If you want to give object on the left side of lens click on real or virtual.
+I will click on real and then it asks for point or extended.I will show for point only in this video.I will now click on point.Here appears canvas window.i willl now type the radius and refractive index value in terminal and give an object by clicking.Finally the image is here.I will close it now.
+
+I can do the same as mentioned before for concave lens. Clicking on lens-->Concave lens-->Real -->Point.I will now type radius and refractive index.Here I click for object.It is here,the image is shown on the canvas.
+This is a brief demo of Project ImaGe by me and my team.I hope you liked the video.Thank you for watching it.       
