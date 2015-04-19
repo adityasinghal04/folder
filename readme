@@ -1,0 +1,29 @@
+                                                                   Year 2015 - CS101 Project
+                                                                   ImaGe-The Image Generator
+
+Team:428
+
+Aditya Singhal,140010060
+Akhil Varma,14D170010
+Shantanu Shah,14D170001
+Kandakurthi Sai Theja,140010041
+ 
+
+Instructions to setup the project:
+ 
+1)First download Code::blocks IDE from the link "http://www.cse.iitb.ac.in/~ranade/simplecpp/". Download the linux version if you are having ubuntu operating system or windows version if you have windows operating system.
+
+2)Then install the downloaded Code::blocks file on your computer.
+
+3)Then download the GTK+ file from the link "http://www.gtk.org/download/" and install the same on your computer.
+
+4)Now extract the code from the ".tar.gz" file you have downloaded.
+
+5)Doing this, open the code from File->Open in Code::blocks and save the same with extension ".cpp". 
+
+6)Finally, click on the "Build and Run" button in the toolbar at the top.
+  
+7)The YouTube link for video on installing required software is "https://www.youtube.com/watch?v=9qqDqDEsMaM&feature=youtu.be".
+
+8) Another YouTube link for screencasting the demo video is 
+"https://youtu.be/MydgNRzEpyE". 
